@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetL1_1 Pin=Power-2
+Removed Pin From Net: NetName=GND Pin=Switch-1
+Change Component Footprint: Designator=Antenna Output Old Footprint=JST- S2B-PH-SM4-TB(LF)(SN)-2_V New Footprint=JST-B2B-PH-K-S_V
+Change Component Footprint: Designator=Power Old Footprint=JST- S2B-PH-SM4-TB(LF)(SN)-2_V New Footprint=JST-B2B-PH-K-S_V
+Change Component Footprint: Designator=Switch Old Footprint=JST- S2B-PH-SM4-TB(LF)(SN)-2_V New Footprint=JST-B2B-PH-K-S_V
+Change Component Comment : Designator=Antenna Output Old Comment=S2B-PH-SM4-TB(LF)(SN) New Comment=B2B-PH-K-S(LF)(SN)
+Change Component Comment : Designator=Power Old Comment=S2B-PH-SM4-TB(LF)(SN) New Comment=B2B-PH-K-S(LF)(SN)
+Change Component Comment : Designator=Switch Old Comment=S2B-PH-SM4-TB(LF)(SN) New Comment=B2B-PH-K-S(LF)(SN)
+Change Managed Component Library Link : Designator=Antenna Output Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D258FB5A-885F-46B3-A3A6-929336EA0410 New ItemGUID=FD174A37-B421-4486-9338-F5547CC76FC8 Old RevisionGUID=EF259658-B640-41E7-A14C-8A944DD96802 New RevisionGUID=EFBB6044-7C73-413E-B65B-D511BE090736
+Change Managed Component Library Link : Designator=Power Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D258FB5A-885F-46B3-A3A6-929336EA0410 New ItemGUID=FD174A37-B421-4486-9338-F5547CC76FC8 Old RevisionGUID=EF259658-B640-41E7-A14C-8A944DD96802 New RevisionGUID=EFBB6044-7C73-413E-B65B-D511BE090736
+Change Managed Component Library Link : Designator=Switch Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D258FB5A-885F-46B3-A3A6-929336EA0410 New ItemGUID=FD174A37-B421-4486-9338-F5547CC76FC8 Old RevisionGUID=EF259658-B640-41E7-A14C-8A944DD96802 New RevisionGUID=EFBB6044-7C73-413E-B65B-D511BE090736
+Change component parameters: Designator = "Antenna Output" ("Antenna Output"); Footprint = "JST- S2B-PH-SM4-TB(LF)(SN)-2_V"; UniqueID = "\SBOVBJGH" ("\SBOVBJGH")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Power" ("Power"); Footprint = "JST- S2B-PH-SM4-TB(LF)(SN)-2_V"; UniqueID = "\MOSQMCRT" ("\MOSQMCRT")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Switch" ("Switch"); Footprint = "JST- S2B-PH-SM4-TB(LF)(SN)-2_V"; UniqueID = "\ZAQIPFIN" ("\ZAQIPFIN")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_1 Pin=Power-1
+Added Pin To Net: NetName=GND Pin=Switch-2
+Added Pin To Net: NetName=NetPower_2 Pin=Power-2
+Added Pin To Net: NetName=NetPower_2 Pin=Switch-1
+Added Net: Name=NetPower_2

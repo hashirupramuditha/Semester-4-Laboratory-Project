@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetL1_1 Pin=L1-1
+Removed Pin From Net: NetName=NetC5_1 Pin=L1-2
+Removed Pin From Net: NetName=NetC5_1 Pin=L2-1
+Removed Pin From Net: NetName=NetC4_2 Pin=L2-2
+Change Component Footprint: Designator=L1 Old Footprint=ABRA-AIAP-02-2_V1 New Footprint=Inductor Coil TH
+Change Component Footprint: Designator=L2 Old Footprint=ABRA-AIAP-02-2_V1 New Footprint=Inductor Coil TH
+Change Component Comment : Designator=L1 Old Comment=1nH New Comment=2.2nH
+Change Component Comment : Designator=L2 Old Comment=2.2nH New Comment=1nH
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=41009B13-6A14-4DD8-8072-61E49681F308 New ItemGUID= Old RevisionGUID=7827876C-D359-449D-8FB2-5D05AE3539A7 New RevisionGUID=
+Change Managed Component Library Link : Designator=L2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=41009B13-6A14-4DD8-8072-61E49681F308 New ItemGUID= Old RevisionGUID=7827876C-D359-449D-8FB2-5D05AE3539A7 New RevisionGUID=
+Change component parameters: Designator = "L1" ("L1"); Footprint = "ABRA-AIAP-02-2_V1"; UniqueID = "\NUKEBAIT" ("\NUKEBAIT")
+Change component parameters: Designator = "L2" ("L2"); Footprint = "ABRA-AIAP-02-2_V1"; UniqueID = "\RSCRPVHS" ("\RSCRPVHS")
+Add Pin To Net: Unknown Pin: Pin L1-0
+Added Pin To Net: NetName=NetC5_1 Pin=L1-1
+Add Pin To Net: Unknown Pin: Pin L2-0
+Added Pin To Net: NetName=NetC4_2 Pin=L2-1
+Change Net Name : Old Net Name=NetL1_1 New Net Name=NetL1_0

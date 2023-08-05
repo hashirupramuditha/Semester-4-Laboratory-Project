@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=Power Connector NewDesignator=Power
+Change Net Name : Old Net Name=NetPower Connector_1 New Net Name=NetPower_1

@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin L1-0
+Added Pin To Net: NetName=NetL1 Pin=L1-1
+Add Pin To Net: Unknown Pin: Pin L2-0
+Added Pin To Net: NetName=NetC5_1 Pin=L2-1
+Change Net Name : Old Net Name=NetL1 New Net Name=NetL1_1

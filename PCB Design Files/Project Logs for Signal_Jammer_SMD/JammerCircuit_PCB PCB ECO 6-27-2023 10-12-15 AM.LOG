@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=RDE5C1H330J0M1H03A
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=RDE5C1H330J0M1H03A
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=5pF
+Change Component Comment : Designator=C3 Old Comment=Cap New Comment=50pF
+Change component parameters: Designator = "C3" ("C3"); Footprint = "RAD-0.3"; UniqueID = "\WTZCNXFR" ("\WTZCNXFR")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RDE5C1H1R0C0M1H03A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RDE5C1H1R0C0M1H03A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-RDE5C1H1R0C0M1H3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-RDE5C1H1R0C0M1H3A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "RAD-0.3"; UniqueID = "\AUKYQACQ" ("\AUKYQACQ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RDE5C1H5R0C0K1H03B.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RDE5C1H5R0C0K1H03B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-RDE5C1H5R0C0K1H3B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-RDE5C1H5R0C0K1H3B"; VariantName = "[No Variations]"

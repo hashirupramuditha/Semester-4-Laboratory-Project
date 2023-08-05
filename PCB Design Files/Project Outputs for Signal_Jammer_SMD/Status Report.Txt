@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Signal_Jammer_SMD.PrjPcb]
+   Generated File[JammerCircuit_PCB.TXT]
+   Generated File[JammerCircuit_PCB.LDP]
+   Generated File[JammerCircuit_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:16:35 PM On 6/29/2023
